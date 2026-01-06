@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* AOS Animations */
+@import "aos/dist/aos.css";
